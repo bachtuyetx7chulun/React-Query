@@ -14,9 +14,11 @@
     "fuck-code": "node detect-unused.js"
   },
   "dependencies": {
-    "next": "11.1.2",
+    "@nextui-org/react": "^1.0.1-alpha.57",
+    "next": "12",
     "react": "17.0.2",
     "react-dom": "17.0.2",
+    "react-query": "^3.34.0",
     "sass": "^1.42.1"
   },
   "devDependencies": {
